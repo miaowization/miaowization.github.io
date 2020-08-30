@@ -1,0 +1,63 @@
+url: http://miaowization.github.io
+projectUrl: miaowization.github.io
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Aigul Valieva
+  depiction: photo.jpg
+  profession: QA Automation Engineer
+  location: Amsterdam, NL
+  email: aigul.g.r@gmail.com
+  site: http://miaowization.github.io
+  phone: +31616477317
+  github: /miaowization
+  linkedin: /aigul-valieva
+
+career:
+ - position: QA Automation Engineer
+   company: Infosystems Jet
+   location: Remote (previously Moscow, RU)
+   dates: September 2018 - current
+   responsibilities:
+    - responsibility: test monitoring and control
+    - responsibility: test analysis and test design
+    - responsibility: developing automated tests and side scripts
+    - responsibility: creating and managing test data
+    - responsibility: creating and managind CI/CD environment
+    - responsibility: extending test automation framework for project needs
+    - responsibility: peer code review
+   accomplishments:
+    - accomplishment: Covered all regression test cases with automated tests. 
+    - accomplishment: Developed on-boarding program for fellow QA newcomers.
+    - accomplishment: Created pipeline for Gitlab CI to with quality gates for merge requests.
+ - position: QA Engineer
+   company: GDC Services (Fujitsu)
+   location: Kazan, RU
+   dates: May 2017 – September 2018
+   responsibilities:
+    - responsibility: developing automated tests
+    - responsibility: test analysis and test design
+    - responsibility: code review
+    - responsibility: manual testing
+    - responsibility: writing documentation
+   accomplishments:
+    - accomplishment: Implemented more than 80 regression UI tests in a month.
+    - accomplishment: Found security vulnerability with exploratory testing.
+
+technicalSkills:
+  list:
+    - tr: Python
+    - tr: Java
+    - tr: C#
+    - tr: Jenkins
+    - tr: Gitlab CI
+    - tr: Azure Devops Pipeline
+    - tr: Selenium
+    - tr: CodedUI
+    - tr: Winium
+    - tr: Appium
+    
+
+education:
+  - name: University Synergy, Applied Informatics (Moscow, RU)
+    dates: 2018 – 2022
