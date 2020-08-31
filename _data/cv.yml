@@ -49,6 +49,12 @@ technicalSkills:
     - tr: Python
     - tr: Java
     - tr: C#
+
+tools:
+  list:
+    - tr: Python
+    - tr: Java
+    - tr: C#
     - tr: Jenkins
     - tr: Gitlab CI
     - tr: Azure Devops Pipeline
@@ -56,8 +62,20 @@ technicalSkills:
     - tr: CodedUI
     - tr: Winium
     - tr: Appium
+    - tr: Xamarin.UITest
+    - tr: Jira
+    - tr: Git
+    - tr: Allure
+    - tr: PostgreSQL
+    - tr: MongoDB
+
+certificates:
+  list:
+    - tr: Oracle Certified Associate Java SE 8
+    - tr: ISTQB Certified Tester Foundation Level
     
 
 education:
-  - name: University Synergy, Applied Informatics (Moscow, RU)
+  - name: University Synergy, Applied Informatics
     dates: 2018 – 2022
+    location: Remote (Moscow, RU)

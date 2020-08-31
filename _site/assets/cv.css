@@ -1,10 +1,10 @@
 body { background-color: #333 !important; background-image: url("https://www.transparenttextures.com/patterns/random-grey-variations.png"); }
 
-.container { background-color: #FFFFFF; margin: 50px 0; }
+.container { background-color: #e0dfd9; margin: 50px 0; }
 
 .header { padding: 50px 50px 20px; }
 
-.bg-gray { background-color: #ddd; }
+.bg-gray { background-color: cornsilk; }
 
 .section { padding: 20px 50px; }
 
