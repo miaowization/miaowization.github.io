@@ -51,9 +51,6 @@ technicalSkills:
 
 tools:
   list:
-    - tr: Python
-    - tr: Java
-    - tr: C#
     - tr: Jenkins
     - tr: Gitlab CI
     - tr: Azure Devops Pipeline
