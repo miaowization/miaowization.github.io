@@ -6,17 +6,21 @@ person:
   name: Aigul Valieva
   depiction: photo.jpg
   profession: QA Automation Engineer
-  location: Amsterdam, NL
+  location: Enschede, NL
   email: aigul.g.r@gmail.com
   phone: +31616477317
   github: /miaowization
   linkedin: /aigul-valieva
 
 career:
+  - position: Senior QA Automation Engineer
+     company: Just Eat Takeaway.com
+     location: Enschede, NL
+     dates: October 2020 - current
  - position: QA Automation Engineer
    company: Infosystems Jet
    location: Remote (previously Moscow, RU)
-   dates: September 2018 - current
+   dates: September 2018 - October 2020
    responsibilities:
     - responsibility: test monitoring and control
     - responsibility: test analysis and test design
@@ -45,12 +49,14 @@ career:
 
 technicalSkills:
   list:
+    - tr: Javascript
     - tr: Python
     - tr: Java
     - tr: C#
 
 tools:
   list:
+    - tr: Cypress
     - tr: Jenkins
     - tr: Gitlab CI
     - tr: Azure Devops Pipeline
